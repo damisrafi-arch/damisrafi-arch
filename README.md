@@ -1,4 +1,4 @@
-# Halo, saya Rafi 👋
+# Halo, saya Peserta AI Engineer Digital Skola 👋
 
 ## 👨‍💻 Tentang Saya
 Saya merupakan peserta AI Engineer Bootcamp Digital Skola yang sedang mempelajari Artificial Intelligence, Python, SQL, Git, dan GitHub.
